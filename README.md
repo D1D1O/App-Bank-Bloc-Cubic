@@ -2,6 +2,9 @@
 
 A new Bytebank project.
 
+![App-Bank-Bloc-Cubic-2](https://github.com/user-attachments/assets/1c1d8a88-7a90-46f0-9cfd-a299ad176693)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
